@@ -13,31 +13,39 @@ sidebar:
 career_profile:
     title: "Professional Profile"
     summary: |
-      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. 
-      
-      [👉 DOWNLOAD FULL CV PDF](https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf)
+      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in lab automation and scientific infrastructure.
 
 education:
-    - degree: Ph.D. Biomedical Sciences
-      university: UNAM
-      time: 2003 - 2009
-    - degree: B.Sc. Microbiology
-      university: UNAM
-      time: 1998 - 2003
+    - degree: "Ph.D. in Biomedical Sciences"
+      university: "UNAM (Instituto de Fisiología Celular)"
+      time: "2003 - 2009"
+    - degree: "Bachelor of Sciences, Microbiology"
+      university: "UNAM (Faculty of Sciences)"
+      time: "1998 - 2003"
 
 experiences:
-    - role: Research Scientist
-      time: 2023 - 2024
-      company: Arizona State University
+    - role: "Research Scientist"
+      time: "May 2023 – Jul 2024"
+      company: "Arizona State University"
       details: |
-        Supervised BSL-2 labs, developed E. coli mutants, and optimized GEVIs for confocal microscopy.
-    - role: Business Unit Manager
-      time: 2014 - 2015
-      company: Customized Premium Products
+        Supervised and trained staff in molecular microbiology. Developed E. coli mutants for flagellar stator studies and optimized GEVIs for confocal microscopy.
+    - role: "Business Unit Manager"
+      time: "2014 – 2015"
+      company: "Customized Premium Products S.A. de C.V."
       details: |
-        Directed teams for Big Pharma market intelligence (Eli Lilly, Bayer, Roche).
-    - role: Postdoctoral Researcher
-      time: 2010 - 2014
-      company: Waseda & Osaka University (Japan)
+        Directed multidisciplinary teams for Big Pharma market intelligence. Managed projects for Eli Lilly, Bayer, Roche, and Novartis.
+    - role: "Junior Researcher"
+      time: "2012 – 2014"
+      company: "Waseda University (Tokyo, Japan)"
       details: |
-        Systems biology and biophysics of microbial motors using microfluidic chips.
+        Systems biology of microbial motors using microfluidic chips and high-speed nanophotometry.
+
+projects:
+    title: "Fellowships & Grants"
+    assignments:
+      - title: "MIT Media Lab / Twist Bioscience"
+        tagline: "2025 Sponsorship Award ($5,400 USD)."
+      - title: "Experiment Foundation"
+        tagline: "2023 Research Grant ($4,400 USD)."
+      - title: "Biophysical Society of Japan"
+        tagline: "Outstanding Paper Award 2019."
