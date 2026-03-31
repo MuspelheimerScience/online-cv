@@ -21,6 +21,10 @@ sidebar:
     linkedin: esquizomnia
     github: MuspelheimerScience
     
+    cv_download: 
+        - text: "DOWNLOAD FULL CV (PDF)"
+          link: "https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf"
+    
     languages:
       - idiom: English
         level: Fluent
@@ -38,12 +42,12 @@ sidebar:
       - item: Electronic music production
       - item: Painting, Ceramics & Silly robots
 
-career_profile:
+      career_profile:
     title: Professional Profile
     summary: |
-      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico) managing high-volume laboratory environments. Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. 
-
-      [👉 CLICK HERE TO DOWNLOAD FULL CV (PDF)](https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf)
+      Ph.D. Scientist (15+ years exp). Specialized in Molecular Microbiology & Robotic Engineering. Founder of Glyxon Biolabs.
+      
+      [👉 CLICK HERE FOR FULL PDF CV](https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf)
       
 education:
     - degree: Ph.D. in Biomedical Sciences
