@@ -1,6 +1,5 @@
 #
-# David J. Castillo-Cornejo, Ph.D. - Full Global Portfolio
-# Location: Mexico City, Mexico
+# David J. Castillo-Cornejo, Ph.D. - FULL UNABRIDGED VERSION
 #
 
 sidebar:
@@ -37,20 +36,19 @@ sidebar:
     interests:
       - item: Analog photography & Wildlife macro
       - item: Electronic music production
-      - item: Painting and Ceramics
-      - item: Hiking
-      - item: "Building silly robots"
+      - item: Painting, Ceramics & Silly robots
 
 career_profile:
     title: Professional Profile
     summary: |
-      Ph.D. Scientist with over 15 years of international experience (USA, Japan, Germany, Mexico) in high-level research and laboratory management. Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in "Hackenomics": optimizing scientific infrastructure through 3D printing, microfluidics, and open-source automation. Founder of Glyxon Biolabs, dedicated to CO2 sequestration and biopolymers biosynthesis.
+      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico) in high-volume laboratory management and research. Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in "Hackenomics": optimizing scientific infrastructure through 3D printing, microfluidics, and open-source automation. Founder of Glyxon Biolabs, focusing on atmospheric CO2 sequestration and biopolymers.
 
 education:
     - degree: Ph.D. in Biomedical Sciences
       university: Universidad Nacional Autónoma de México (UNAM)
       time: 2003 - 2009
-      details: Molecular Microbiology and Biophysics at the Instituto de Fisiología Celular.
+      details: |
+        Instituto de Fisiología Celular. Doctoral Program in Molecular Microbiology and Biophysics.
     - degree: Bachelor of Sciences, Microbiology
       university: UNAM, Faculty of Sciences
       time: 1998 - 2003
@@ -60,87 +58,86 @@ experiences:
       time: May 2023 – Jul 2024
       company: Arizona State University (Biodesign Institute)
       details: |
-        Center of Mechanisms of Evolution. Supervised and trained undergrads, grads, and postdocs. Developed E. coli mutants for flagellar stator motor studies. Optimized GEVIs for membrane potential measurements via confocal microscopy. Created protein tag fusions for membrane protein reconstitution in artificial liposomes.
-    - role: Founder & Advisor
-      time: 2019 – Present
-      company: GLYXON Biolabs (DIY Biospace)
-      details: |
-        Studies micro-algae, plants, and bacterial models for CO2 sequestration and biopolymers biosynthesis. Current developments: 'Lab on a chip' flexible bioreactors, EWoD micropumps, and optogenetics (pDusk/pDawn). Partnered with Ottawa BioScience, JOGL-CRI, and Cambridge Open Bioeconomy Lab.
-    - role: Panel Reviewer
-      time: Mar 2023 – Jun 2023
-      company: Internet of Production Alliance
-      details: Evaluated projects mapping digital manufacturing capabilities across Africa and LATAM for the "Open Know Where Awards".
-    - role: Academic Project Administrator
-      time: Mar 2022 - May 2022
-      company: Pontífica Universidad Católica de Chile
-      details: Coordinated the LIBRE_hub project (Latin American Hub for Bioimaging through Open Hardware) funded by the Chan-Zuckerberg Initiative.
-    - role: Postdoctoral Researcher
-      time: May 2017 – Dec 2017
-      company: UNAM (Institute of Ecology / Institute of Physics / C3)
-      details: |
-        Developed a Robotic system for single-cell genetic expression profiling. Built an automated system for histological inclusion of vegetal tissues using 3D printing, microcontroller-operated syringe pumps (Arduino/RPi), and PID temperature control.
+        Center of Mechanisms of Evolution. Multi-role Research Scientist:
+        * Trained and supervised undergrad/graduate students and postdocs in molecular microbiology.
+        * Developed E. coli mutants for flagellar stator motor re-moderation studies.
+        * Implemented and optimized Genetically Encoded Voltages Indicators (GEVIs) for membrane potential measurements using confocal microscopy.
+        * Created protein tag fusions for cloning, overexpression, and purification of membrane protein channels for reconstitution in artificial liposomes.
+
     - role: Business Unit Manager
       time: Oct 2014 - April 2015
       company: Customized Premium Products S.A. de C.V.
       details: |
-        Directed a multidisciplinary team (MDs, PhDs, Economists) providing strategic market intelligence for Big Pharma (Eli Lilly, Bayer, Roche, Novartis, Amgen). Managed technical dossiers for COFEPRIS and implemented automated CRM platforms.
+        Directed a team of specialists (Economists, Biochemists, MDs, Epidemiologists) and sales force.
+        * Strategic market intelligence for the pharmaceutical industry based on clinical evidence and epidemiological modeling.
+        * Delivered market profiles for cancer, diabetes, HIV, and medical devices (POC) for Mexico and LATAM.
+        * Technical and economic dossiers for COFEPRIS registration.
+        * **Clients Managed:** Eli Lilly, Bristol Myers Squibb, Bayer, Roche, Novartis, Teva, Amgen, Eisai Ltd.
+        * **Achievements:** Reshaped Business Unit roles; implemented automated project management platforms (CRM/Sales tracking); trained staff in process engineering and real-time prorating.
+
+    - role: Postdoctoral Researcher
+      time: May 2017 – Dec 2017
+      company: UNAM (Institute of Ecology / Physics / C3)
+      details: |
+        Developed a Robotic system for single-cell genetic expression profiling via Laser Microdissection Microscopy. 
+        * Constructed an automated system for histological inclusion of vegetal tissues.
+        * Prototype: Microcontroller-operated (Arduino/RPi) motorized system with syringe pumps, peristaltic pumps, PID temperature control, and flow meter.
+        * Built using additive construction (3D printing).
+
     - role: Junior Researcher
       time: Nov 2012 – Mar 2014
       company: Waseda University (Tokyo, Japan)
       details: |
-        Systems biology of microbial ATP synthase in artificial liposomes using microfluidic chips. Microfabrication of surfaces via FIB microscopy and PDMS masking. Real-time nanophotometric measurements of FoF1-ATPase rotation.
+        Project: Systems biology and biophysics of microbial ATP synthase in artificial liposomes using microfluidic chips.
+        * Microfabrication of surfaces via FIB microscopy and PDMS masking.
+        * Real-time, high-speed nanophotometric measurements of FoF1-ATPase rotation.
+        * Chemical conjugation for attaching large ATPase complexes into functionalized metal-glass surfaces.
+
     - role: Postdoctoral Researcher
       time: Jul 2010 – Sep 2012
       company: Osaka University (Namba Lab, Japan)
       details: |
-        Research on nano high-speed photometry of bacterial flagellum motor. Performed protein engineering, Western blots, and TIRF microscopy. Trained students in structural analysis of transmembrane proton channels.
+        Project: Nano high-speed photometry of bacterial flagellum motor.
+        * Theoretical and practical study on engine dynamics.
+        * Protein engineering, Western blot localization, and TIRF microscopy.
+        * Biophysical model integration of flagellar motor rotation using high-speed cameras.
+
     - role: Postdoctoral Researcher
       time: May 2009 – Jun 2010
       company: Max Planck Institute for Terrestrial Microbiology (Germany)
       details: |
-        Studied Type 4 pili assembly in Myxococcus xanthus. Used analytical ultracentrifugation for membrane sub-cellular fractionation and FRET microscopy for spatial localization.
+        Project: Biosynthesis of Type 4 pili assembly of Myxococcus xanthus.
+        * Cellular fractionation using analytical ultracentrifugation.
+        * FRET microscopy for intracellular spatial localization.
+        * Overexpression and purification of proteins for antibody production via manual/automated IMAC.
+
+    - role: Founder & Advisor
+      time: 2019 – Present
+      company: GLYXON Biolabs
+      details: |
+        DIY Biospace for biomaterials (www.glyxon.com).
+        * Studies micro-algae and bacterial models for CO2 sequestration and biopolymers.
+        * **Developments:** Flexible low-cost bioreactors, EWoD micropumps, Optogenetics (pDusk/pDawn), Proteopresso (automated protein purification), and Tissue Macro Photogrammetry.
+        * **Partners:** Ottawa BioScience, JOGL-CRI, Cambridge Open Bioeconomy Lab, Gaudi Labs, Osaka University.
 
 projects:
-    title: Fellowships & Awards
-    intro: >
-      A record of academic excellence and research funding.
+    title: Fellowships & Grants
     assignments:
-      - title: MIT Media Lab Sponsorship Award
-        link: "#"
-        tagline: "2025. $5,400 USD for Synthetic Biology projects (Twist Bioscience)."
-      - title: MIT HTGAA Fellowship
-        link: "#"
-        tagline: "2025. Global Committed Listener Fellowship."
-      - title: Experiment Foundation Grant
-        link: "#"
-        tagline: "2023. $4,400 USD for Carbon Sequestration studies in Abies trees."
-      - title: Biophysical Society of Japan
-        link: "#"
-        tagline: "2019. Outstanding Paper Award."
-      - title: JOGL Open COVID19 Grants
-        link: "#"
-        tagline: "2020. R&D grants for Proteopresso and Open Source Bioreactor."
+      - title: MIT Media Lab / Twist Bioscience
+        tagline: "2025 Sponsorship Award ($5,400 USD) for Synthetic Biology."
+      - title: Experiment Foundation
+        tagline: "2023 Research Grant ($4,400 USD) for Carbon Sequestration study."
+      - title: Internet of Production Alliance
+        tagline: "2022 Mapping Digital/Additive manufacture in LATAM."
+      - title: JOGL Open COVID19
+        tagline: "R&D grants for Proteopresso and Open Source Bioreactor."
 
 skills:
-    title: Lab & Computer Skills
+    title: Skills & Expertise
     toolset:
-      - name: Lab Skills (qPCR, CRISPR, Protein Engineering, FRET, TIRF, Confocal, SEM/TEM, Rat Neurosurgery)
+      - name: Lab (qPCR, CRISPR, Protein Eng, TIRF/Confocal, SEM, Rat Neurosurgery)
         level: 100%
-      - name: Computer & CAD (Python, Arduino, RPi, Matlab, Igor Pro, Fusion 360, KiCAD, COMSOL, AutoCAD)
+      - name: Computer (Python, Arduino, RPi, Matlab, Igor Pro, Fusion 360, KiCAD)
         level: 95%
-      - name: Manufacturing (3D Printing, SLA/FDM, PCB Design, Microfluidics PDMS/FIB)
+      - name: Digital Media (Radio Broadcasting, Scientific Outreach, Press Management)
         level: 90%
-
-publications:
-    - title: "Current landscape and future directions of synthetic biology in South America"
-      link: "https://doi.org/10.3389/fbioe.2023.1069628"
-      authors: "Front. Bioeng. Biotechnol, 2023"
-    - title: "The C-terminal periplasmic domain of MotB coordinates the number of stators"
-      link: "https://doi.org/10.2142/biophysics.9.173"
-      authors: "Biophysics (BSJ), 2013"
-    - title: "Functional analysis of a large non-conserved region of FlgK (HAP1)"
-      link: "https://doi.org/10.1007/s10482-008-9290-x"
-      authors: "Antonie Van Leeuwenhoek, 2009"
-
-footer: >
-    David J. Castillo-Cornejo, Ph.D. | Science, Arts, and Electronic Multi(media).
