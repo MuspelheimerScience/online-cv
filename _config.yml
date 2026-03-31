@@ -3,6 +3,7 @@
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
+cv_pdf: "David_Castillo_CV.pdf"
 
 #change it according to your repository name
 # disabling since we are using a custom domain
