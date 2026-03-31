@@ -2,21 +2,67 @@ sidebar:
     about: True
     education: True
     experiance: True
-    name: "DAVID J. CASTILLO-CORNEJO, PH.D."
-    tagline: "Ph.D. Scientist | [DOWNLOAD PDF CV](https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf)"
+    name: "David J. Castillo-Cornejo, Ph.D."
+    tagline: "Ph.D. Scientist | [DOWNLOAD FULL CV PDF](https://muspelheimerscience.github.io/online-cv/David_Castillo_CV.pdf)"
     avatar: profile.png
     email: muspelheimer@protonmail.com
+    phone: "+52 (55) 41407607"
     github: MuspelheimerScience
+    linkedin: esquizomnia
 
 career_profile:
     title: "Professional Profile"
     summary: |
-      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. 
+      Ph.D. Scientist and Technologist with 15+ years of international experience (USA, Japan, Germany, Mexico) managing high-volume laboratory environments. Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in "Hackenomics": optimizing scientific infrastructure through 3D printing, microfluidics, and open-source automation. Founder of Glyxon Biolabs.
 
 education:
     - degree: Ph.D. in Biomedical Sciences
-      university: UNAM
+      university: UNAM (Instituto de Fisiología Celular)
       time: 2003 - 2009
     - degree: B.Sc. Microbiology
-      university: UNAM
+      university: UNAM (Faculty of Sciences)
       time: 1998 - 2003
+
+experiences:
+    - role: Research Scientist
+      time: May 2023 – Jul 2024
+      company: Arizona State University (Biodesign Institute)
+      details: |
+        Supervised and trained staff in molecular microbiology. Developed E. coli mutants for flagellar stator studies. Optimized GEVIs for membrane potential measurements via confocal microscopy.
+    - role: Business Unit Manager
+      time: Oct 2014 - April 2015
+      company: Customized Premium Products S.A. de C.V.
+      details: |
+        Directed multidisciplinary teams for Big Pharma market intelligence.
+        * **Clients:** Eli Lilly, Bayer, Roche, Novartis, Amgen, Bristol Myers Squibb.
+        * Implemented automated CRM and project management platforms.
+    - role: Postdoctoral Researcher
+      time: May 2017 – Dec 2017
+      company: UNAM (Institute of Ecology / C3)
+      details: |
+        Developed a Robotic system for single-cell genetic expression profiling using 3D printing and Arduino/RPi automation.
+    - role: Junior Researcher
+      time: Nov 2012 – Mar 2014
+      company: Waseda University (Tokyo, Japan)
+      details: |
+        Research on microbial ATP synthase using microfluidic chips and FIB microscopy.
+    - role: Postdoctoral Researcher
+      time: Jul 2010 – Sep 2012
+      company: Osaka University (Namba Lab, Japan)
+      details: |
+        High-speed nanophotometry of bacterial flagellum motor rotation.
+    - role: Postdoctoral Researcher
+      time: May 2009 – Jun 2010
+      company: Max Planck Institute (Germany)
+      details: |
+        Biosynthesis of Type 4 pili assembly in Myxococcus xanthus.
+
+projects:
+    title: "Fellowships & Awards"
+    assignments:
+      - title: "MIT Media Lab / Twist Bioscience"
+        tagline: "2025 Sponsorship Award ($5,400 USD)."
+      - title: "Experiment Foundation"
+        tagline: "2023 Research Grant ($4,400 USD) for Carbon Sequestration."
+      - title: "Biophysical Society of Japan"
+        tagline: "Outstanding Paper Award 2019."
