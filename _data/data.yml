@@ -1,31 +1,32 @@
 #
-# David J. Castillo-Cornejo, Ph.D. - Online CV Data
+# David J. Castillo-Cornejo, Ph.D. - Full Global Portfolio
+# Location: Mexico City, Mexico
 #
 
 sidebar:
-    about: True # Preséntate brevemente
-    education: True # Mostrar educación
-    experiance: True # Mostrar experiencia
-    projects: True # Mostrar proyectos/Emprendimiento
-    skills: True # Mostrar habilidades
-    languages: True # Mostrar idiomas
-    interests: True # Mostrar intereses
+    about: True
+    education: True
+    experiance: True
+    projects: True
+    skills: True
+    languages: True
+    interests: True
 
     name: David J. Castillo-Cornejo, Ph.D.
-    tagline: Ph.D. Scientist & Research Infrastructure Specialist
-    avatar: profile.png # Sube una foto con este nombre a la carpeta assets/images/
+    tagline: Ph.D. Scientist | Molecular Microbiology & Biophysics
+    avatar: profile.png
     
     email: muspelheimer@protonmail.com
     phone: +52 (55) 41407607
     website: glyxon.com
     linkedin: esquizomnia
-    github: muspelheimer # Cambia por tu usuario de GitHub
+    github: MuspelheimerScience
     
     languages:
-      - idiom: Spanish
-        level: Native
       - idiom: English
         level: Fluent
+      - idiom: Spanish
+        level: Native
       - idiom: French
         level: Intermediate
       - idiom: Japanese
@@ -34,22 +35,22 @@ sidebar:
         level: Basic
 
     interests:
-      - item: Analog photography
+      - item: Analog photography & Wildlife macro
       - item: Electronic music production
-      - item: Ceramics & Painting
-      - item: Wildlife macro photography
+      - item: Painting and Ceramics
+      - item: Hiking
       - item: "Building silly robots"
 
 career_profile:
     title: Professional Profile
     summary: |
-      Scientist and Technologist with 15+ years of international experience (USA, Japan, Germany, Mexico) in high-volume laboratory environments. Specialized in the intersection of Molecular Microbiology and Robotic Engineering through "Hackenomics": optimizing scientific infrastructure using 3D printing, microfluidics, and open-source automation. Expert in EHS compliance, BSL-2, and bio-infrastructure development.
+      Ph.D. Scientist with over 15 years of international experience (USA, Japan, Germany, Mexico) in high-level research and laboratory management. Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in "Hackenomics": optimizing scientific infrastructure through 3D printing, microfluidics, and open-source automation. Founder of Glyxon Biolabs, dedicated to CO2 sequestration and biopolymers biosynthesis.
 
 education:
     - degree: Ph.D. in Biomedical Sciences
       university: Universidad Nacional Autónoma de México (UNAM)
       time: 2003 - 2009
-      details: Molecular Microbiology and Biophysics at Instituto de Fisiología Celular.
+      details: Molecular Microbiology and Biophysics at the Instituto de Fisiología Celular.
     - degree: Bachelor of Sciences, Microbiology
       university: UNAM, Faculty of Sciences
       time: 1998 - 2003
@@ -59,55 +60,87 @@ experiences:
       time: May 2023 – Jul 2024
       company: Arizona State University (Biodesign Institute)
       details: |
-        Supervised and trained 20+ researchers in BSL-2 environments. Developed mutants in E. coli for flagellar studies and implemented GEVIs for membrane potential measurements using confocal microscopy.
+        Center of Mechanisms of Evolution. Supervised and trained undergrads, grads, and postdocs. Developed E. coli mutants for flagellar stator motor studies. Optimized GEVIs for membrane potential measurements via confocal microscopy. Created protein tag fusions for membrane protein reconstitution in artificial liposomes.
+    - role: Founder & Advisor
+      time: 2019 – Present
+      company: GLYXON Biolabs (DIY Biospace)
+      details: |
+        Studies micro-algae, plants, and bacterial models for CO2 sequestration and biopolymers biosynthesis. Current developments: 'Lab on a chip' flexible bioreactors, EWoD micropumps, and optogenetics (pDusk/pDawn). Partnered with Ottawa BioScience, JOGL-CRI, and Cambridge Open Bioeconomy Lab.
     - role: Panel Reviewer
       time: Mar 2023 – Jun 2023
       company: Internet of Production Alliance
-      details: Supervised projects mapping digital manufacturing capabilities across Africa and LATAM for the “Open know where Awards”.
+      details: Evaluated projects mapping digital manufacturing capabilities across Africa and LATAM for the "Open Know Where Awards".
     - role: Academic Project Administrator
       time: Mar 2022 - May 2022
       company: Pontífica Universidad Católica de Chile
-      details: Coordinated the LIBRE_hub project (Latin American Hub for Bioimaging through Open Hardware) funded by Chan-Zuckerberg.
+      details: Coordinated the LIBRE_hub project (Latin American Hub for Bioimaging through Open Hardware) funded by the Chan-Zuckerberg Initiative.
     - role: Postdoctoral Researcher
       time: May 2017 – Dec 2017
-      company: UNAM (Institute of Ecology / C3)
-      details: Developed a robotic system for single-cell genetic expression profiling and automated histological inclusion using 3D printing and Arduino/Raspberry Pi.
+      company: UNAM (Institute of Ecology / Institute of Physics / C3)
+      details: |
+        Developed a Robotic system for single-cell genetic expression profiling. Built an automated system for histological inclusion of vegetal tissues using 3D printing, microcontroller-operated syringe pumps (Arduino/RPi), and PID temperature control.
     - role: Business Unit Manager
       time: Oct 2014 - April 2015
       company: Customized Premium Products S.A. de C.V.
-      details: Led a multidisciplinary team providing market intelligence for Big Pharma (Eli Lilly, Bayer, Roche). Implemented automated CRM and project management platforms.
+      details: |
+        Directed a multidisciplinary team (MDs, PhDs, Economists) providing strategic market intelligence for Big Pharma (Eli Lilly, Bayer, Roche, Novartis, Amgen). Managed technical dossiers for COFEPRIS and implemented automated CRM platforms.
     - role: Junior Researcher
       time: Nov 2012 – Mar 2014
       company: Waseda University (Tokyo, Japan)
-      details: Research on microbial ATP synthase using microfluidic chips and FIB microscopy.
+      details: |
+        Systems biology of microbial ATP synthase in artificial liposomes using microfluidic chips. Microfabrication of surfaces via FIB microscopy and PDMS masking. Real-time nanophotometric measurements of FoF1-ATPase rotation.
+    - role: Postdoctoral Researcher
+      time: Jul 2010 – Sep 2012
+      company: Osaka University (Namba Lab, Japan)
+      details: |
+        Research on nano high-speed photometry of bacterial flagellum motor. Performed protein engineering, Western blots, and TIRF microscopy. Trained students in structural analysis of transmembrane proton channels.
+    - role: Postdoctoral Researcher
+      time: May 2009 – Jun 2010
+      company: Max Planck Institute for Terrestrial Microbiology (Germany)
+      details: |
+        Studied Type 4 pili assembly in Myxococcus xanthus. Used analytical ultracentrifugation for membrane sub-cellular fractionation and FRET microscopy for spatial localization.
 
 projects:
-    title: Entrepreneurship & Open Science
+    title: Fellowships & Awards
     intro: >
-      Founder of GLYXON Biolabs, a DIY Biospace focused on biomaterials, CO2 sequestration, and open-source lab hardware.
+      A record of academic excellence and research funding.
     assignments:
-      - title: Proteopresso
-        link: "https://www.glyxon.com"
-        tagline: "Automated pressurized recombinant protein purification system (Funded by JOGL)."
-      - title: Environmental Data-Logger
+      - title: MIT Media Lab Sponsorship Award
         link: "#"
-        tagline: "Low-cost system for measuring soil respiration and mycorrhizal symbionts (Funded by experiment.com)."
+        tagline: "2025. $5,400 USD for Synthetic Biology projects (Twist Bioscience)."
+      - title: MIT HTGAA Fellowship
+        link: "#"
+        tagline: "2025. Global Committed Listener Fellowship."
+      - title: Experiment Foundation Grant
+        link: "#"
+        tagline: "2023. $4,400 USD for Carbon Sequestration studies in Abies trees."
+      - title: Biophysical Society of Japan
+        link: "#"
+        tagline: "2019. Outstanding Paper Award."
+      - title: JOGL Open COVID19 Grants
+        link: "#"
+        tagline: "2020. R&D grants for Proteopresso and Open Source Bioreactor."
 
 skills:
-    title: Technical Skills & Stack
+    title: Lab & Computer Skills
     toolset:
-      - name: Lab Automation (Arduino/RPi/Python)
-        level: 95%
-      - name: Additive Manufacturing (3D Printing/Cura)
-        level: 90%
-      - name: EHS & BSL-2 Compliance
+      - name: Lab Skills (qPCR, CRISPR, Protein Engineering, FRET, TIRF, Confocal, SEM/TEM, Rat Neurosurgery)
         level: 100%
-      - name: CAD Design (OpenSCAD/Fusion 360/KiCAD)
-        level: 85%
-      - name: Molecular Biology (CRISPR/qPCR/Protein Eng)
+      - name: Computer & CAD (Python, Arduino, RPi, Matlab, Igor Pro, Fusion 360, KiCAD, COMSOL, AutoCAD)
         level: 95%
-      - name: Advanced Microscopy (TIRF/Confocal)
+      - name: Manufacturing (3D Printing, SLA/FDM, PCB Design, Microfluidics PDMS/FIB)
         level: 90%
 
+publications:
+    - title: "Current landscape and future directions of synthetic biology in South America"
+      link: "https://doi.org/10.3389/fbioe.2023.1069628"
+      authors: "Front. Bioeng. Biotechnol, 2023"
+    - title: "The C-terminal periplasmic domain of MotB coordinates the number of stators"
+      link: "https://doi.org/10.2142/biophysics.9.173"
+      authors: "Biophysics (BSJ), 2013"
+    - title: "Functional analysis of a large non-conserved region of FlgK (HAP1)"
+      link: "https://doi.org/10.1007/s10482-008-9290-x"
+      authors: "Antonie Van Leeuwenhoek, 2009"
+
 footer: >
-    Designed with ❤️ for the Open Science community. Relocating to Toronto, ON.
+    David J. Castillo-Cornejo, Ph.D. | Science, Arts, and Electronic Multi(media).
