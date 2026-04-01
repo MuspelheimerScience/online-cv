@@ -7,15 +7,26 @@ sidebar:
     github: MuspelheimerScience
     linkedin: esquizomnia
 
-# Usaremos la sección 'projects' para TODO, ya que es la única que tu sitio está leyendo
 projects:
-    title: "Professional Summary & Education"
+    title: "Expertise & Academic Background"
     assignments:
-      - title: "Ph.D. Scientist"
-        tagline: "15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology and Synthetic Biology."
+      - title: "Professional Profile"
+        tagline: "Scientist with 15+ years of experience in USA, Japan, Germany, and Mexico. Expert in Molecular Microbiology, Biophysics, and Synthetic Biology. Founder of Glyxon Biolabs."
+      
+      - title: "Recent Research (Arizona State University)"
+        tagline: "Supervision of BSL-2 labs, development of E. coli mutants for flagellar motor studies, and optimization of Genetically Encoded Voltage Indicators (GEVIs)."
+
+      - title: "International Research (Japan & Germany)"
+        tagline: "Postdoctoral work at Osaka University, Waseda University, and Max Planck Institute. Specialized in high-speed nanophotometry and microfluidics."
+
       - title: "Education: Ph.D. in Biomedical Sciences"
-        tagline: "UNAM (Instituto de Fisiología Celular), 2003 - 2009."
+        tagline: "UNAM (Instituto de Fisiología Celular), 2003 - 2009. Focus on Molecular Microbiology and Biophysical chemistry."
+
       - title: "Education: B.Sc. Microbiology"
-        tagline: "UNAM (Faculty of Sciences), 1998 - 2003."
-      - title: "Founder at Glyxon Biolabs"
-        tagline: "Focus on biomaterials and open-source lab hardware."
+        tagline: "UNAM (Faculty of Sciences), 1998 - 2003. Honorable Mention."
+
+      - title: "Fellowships & Awards"
+        tagline: "Recipient of the MIT Media Lab / Twist Bioscience Sponsorship (2025) and the Biophysical Society of Japan Outstanding Paper Award."
+
+      - title: "Technical Skills"
+        tagline: "3D Printing/OpenSCAD for lab automation, Python/Mathematica for data analysis, and advanced Confocal Microscopy."
