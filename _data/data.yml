@@ -11,13 +11,19 @@ projects:
     title: "Expertise & Academic Background"
     assignments:
       - title: "Professional Profile"
-        tagline: "Scientist with 15+ years of experience in USA, Japan, Germany, and Mexico. Expert in Molecular Microbiology, Biophysics, and Synthetic Biology. Founder of Glyxon Biolabs."
+        tagline: "Scientist with 15+ years of experience in USA, Japan, Germany, and Mexico. Specialized in Molecular Microbiology and Synthetic Biology. Founder of Glyxon Biolabs."
       
       - title: "Recent Research (Arizona State University)"
         tagline: "Supervision of BSL-2 labs, development of E. coli mutants for flagellar motor studies, and optimization of Genetically Encoded Voltage Indicators (GEVIs)."
 
+      - title: "Pharma Market Intelligence (Business Manager)"
+        tagline: "Directed teams for Big Pharma market analysis (Eli Lilly, Bayer, Roche, Novartis). Implemented automated CRM and project management platforms."
+
       - title: "International Research (Japan & Germany)"
-        tagline: "Postdoctoral work at Osaka University, Waseda University, and Max Planck Institute. Specialized in high-speed nanophotometry and microfluidics."
+        tagline: "Postdoctoral work at Osaka University, Waseda University, and Max Planck Institute. Research on microbial ATP synthase using microfluidics."
+
+      - title: "Digital & Additive Manufacture (IoP Alliance)"
+        tagline: "2022 Mapping of Digital/Additive manufacture in LATAM. Expertise in OpenSCAD, 3D printing, and open-source lab hardware."
 
       - title: "Education: Ph.D. in Biomedical Sciences"
         tagline: "UNAM (Instituto de Fisiología Celular), 2003 - 2009. Focus on Molecular Microbiology and Biophysical chemistry."
@@ -26,7 +32,7 @@ projects:
         tagline: "UNAM (Faculty of Sciences), 1998 - 2003. Honorable Mention."
 
       - title: "Fellowships & Awards"
-        tagline: "Recipient of the MIT Media Lab / Twist Bioscience Sponsorship (2025) and the Biophysical Society of Japan Outstanding Paper Award."
+        tagline: "Recipient of the MIT Media Lab / Twist Bioscience Sponsorship (2025) and the Biophysical Society of Japan Outstanding Paper Award (2019)."
 
-      - title: "Technical Skills"
-        tagline: "3D Printing/OpenSCAD for lab automation, Python/Mathematica for data analysis, and advanced Confocal Microscopy."
+      - title: "Technical Skills & Tools"
+        tagline: "Python, Mathematica, Arduino/RPi automation, Confocal Microscopy, and Microbial Fuel Cell development."
