@@ -1,7 +1,4 @@
 sidebar:
-    about: True
-    education: True
-    experiance: True
     name: "David J. Castillo-Cornejo, Ph.D."
     tagline: "Ph.D. Scientist | Molecular Microbiology & Biophysics"
     avatar: profile.png
@@ -10,30 +7,15 @@ sidebar:
     github: MuspelheimerScience
     linkedin: esquizomnia
 
-career_profile:
-    title: "Professional Profile"
-    summary: |
-      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). I specialize in the intersection of Molecular Microbiology and Robotic Engineering.
-      
-      For my complete list of publications, pharmaceutical consulting experience, and detailed research projects, please download the full document using the button in the sidebar.
-
-education:
-    - degree: "Ph.D. in Biomedical Sciences"
-      university: "UNAM (Instituto de Fisiología Celular)"
-      time: "2003 - 2009"
-    - degree: "Bachelor of Sciences, Microbiology"
-      university: "UNAM (Faculty of Sciences)"
-      time: "1998 - 2003"
-
-# He dejado solo una experiencia corta para no saturar el diseño
-experiance:
-    - role: "Research Scientist"
-      time: "2023 – 2024"
-      company: "Arizona State University"
-      details: "Research on flagellar motor dynamics and membrane potential measurements using confocal microscopy."
-
+# Usaremos la sección 'projects' para TODO, ya que es la única que tu sitio está leyendo
 projects:
-    title: "Key Projects"
+    title: "Professional Summary & Education"
     assignments:
-      - title: "GLYXON Biolabs"
-        tagline: "Founder & Advisor. Focus on biomaterials and atmospheric CO2 sequestration."
+      - title: "Ph.D. Scientist"
+        tagline: "15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology and Synthetic Biology."
+      - title: "Education: Ph.D. in Biomedical Sciences"
+        tagline: "UNAM (Instituto de Fisiología Celular), 2003 - 2009."
+      - title: "Education: B.Sc. Microbiology"
+        tagline: "UNAM (Faculty of Sciences), 1998 - 2003."
+      - title: "Founder at Glyxon Biolabs"
+        tagline: "Focus on biomaterials and open-source lab hardware."
