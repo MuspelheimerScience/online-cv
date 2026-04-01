@@ -3,20 +3,20 @@ sidebar:
     education: True
     experiance: True
     name: "David J. Castillo-Cornejo, Ph.D."
-    tagline: "Ph.D. Scientist | Molecular Microbiology"
+    tagline: "Ph.D. Scientist | Molecular Microbiology & Biophysics"
     avatar: profile.png
     email: muspelheimer@protonmail.com
     phone: "+52 (55) 41407607"
     github: MuspelheimerScience
     linkedin: esquizomnia
 
-# Esta sección se llama 'career_profile' en tu index.html
 career_profile:
     title: "Professional Profile"
     summary: |
-      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). Specialized in Molecular Microbiology, Biophysics, and Synthetic Biology. Expert in lab automation and scientific infrastructure.
+      Ph.D. Scientist with 15+ years of international experience (USA, Japan, Germany, Mexico). I specialize in the intersection of Molecular Microbiology and Robotic Engineering.
+      
+      For my complete list of publications, pharmaceutical consulting experience, and detailed research projects, please download the full document using the button in the sidebar.
 
-# Esta sección se llama 'education'
 education:
     - degree: "Ph.D. in Biomedical Sciences"
       university: "UNAM (Instituto de Fisiología Celular)"
@@ -25,30 +25,15 @@ education:
       university: "UNAM (Faculty of Sciences)"
       time: "1998 - 2003"
 
-# OJO: Prueba cambiando 'experiences' por 'experience' o 'experiance' 
-# (Tu plantilla usa 'experiance' con 'a' en la sidebar, vamos a intentar ese nombre)
+# He dejado solo una experiencia corta para no saturar el diseño
 experiance:
     - role: "Research Scientist"
       time: "2023 – 2024"
       company: "Arizona State University"
-      details: |
-        Supervised and trained staff in molecular microbiology. Developed E. coli mutants for flagellar stator studies.
-    - role: "Business Unit Manager"
-      time: "2014 – 2015"
-      company: "Customized Premium Products S.A. de C.V."
-      details: |
-        Directed multidisciplinary teams for Big Pharma market intelligence (Eli Lilly, Bayer, Roche).
-    - role: "Junior Researcher"
-      time: "2012 – 2014"
-      company: "Waseda University (Tokyo, Japan)"
-      details: |
-        Systems biology of microbial motors using microfluidic chips.
+      details: "Research on flagellar motor dynamics and membrane potential measurements using confocal microscopy."
 
-# Esta sección ya vimos que sí funciona como 'projects'
 projects:
-    title: "Fellowships & Grants"
+    title: "Key Projects"
     assignments:
-      - title: "MIT Media Lab / Twist Bioscience"
-        tagline: "2025 Sponsorship Award ($5,400 USD)."
-      - title: "Experiment Foundation"
-        tagline: "2023 Research Grant ($4,400 USD)."
+      - title: "GLYXON Biolabs"
+        tagline: "Founder & Advisor. Focus on biomaterials and atmospheric CO2 sequestration."
